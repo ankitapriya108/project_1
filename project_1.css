@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    height: 95px;
+    width: 100%;
+}
+span{
+    font-weight: bold;
+}
+.logo{
+    height:80px ;
+    width: 80px;
+    margin-left: 190px;
+}
+.logo img{
+    height: auto;
+    width: 100%;
+    object-fit: cover;
+}
+.headline{
+    display: flex;
+}
+.fa-solid, .fas {
+    /* margin-top: 3px; */
+    color: blue;
+    font-weight: 900;
+    font-size: 22px;
+}
+.search {
+    margin-top: 38px;
+    margin-left: 780px;
+}
+.buttons {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+button.login {
+    width: 100px;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+button.signup {
+    width: 100px;
+    height: 40px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+.belowline{
+    height: 70px;
+    width: 100%;
+    background-color: orangered;
+}
+.list ul
+{
+    display: flex;
+}
+.belowline{
+display: flex;
+}
+.list ul{
+    list-style:none ;
+    /* margin-left: 15px; */
+}
+li {
+    margin-top: 24px;
+    font-size: 18px;
+    margin-left: 15px;
+    color: white;
+}
+select {
+    width: 145px;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    border: 0;
+    font-size: 18px;
+}
+
+.belowline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+select {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 400px;
+}
+.banner img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.box_one{
+    margin-top: 50px;
+}
+.text h1{
+    font-size: 45px;
+}
+.trial{
+    margin-top: 50px;
+   
+}
+.trial button{
+    font-size: 20px;
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+}
+.services{
+    height: 50px;
+    width: 100%;
+    margin-top: 70px;
+}
+.services h1{
+    text-align: center;
+    font-weight: bold;
+}
+.myphoto{
+    height: 200px;
+    width: 200px;
+   
+}
+.myphoto img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 115px;
+}
+.mybox p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.mybox{
+    margin-top: 50px;
+}
+
+
